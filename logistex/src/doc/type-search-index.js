@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"logistex","l":"data_manager"},{"p":"logistex","l":"Half_high"},{"p":"logistex","l":"main"},{"p":"logistex","l":"product"},{"p":"logistex","l":"Shelfs"},{"p":"logistex","l":"stroing"}]
